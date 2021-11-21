@@ -14,3 +14,5 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+http://127.0.0.1:5500/index.html
+ https://pcancio.github.io/Portfolio-Homework/
